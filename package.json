@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "@aantthony/logger",
   "version": "1.1.0",
   "description": "Simple console.log replacement",
   "main": "index.js",

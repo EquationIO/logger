@@ -2,7 +2,7 @@
 
 Simple `console.log` replacement.
 
-`npm install --save https://github.com/aantthony/logger/archive/v1.0.0.tar.gz`
+`npm install --save @aantthony/logger`
 
 ## Usage
 ```js
